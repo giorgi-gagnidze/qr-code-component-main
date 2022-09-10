@@ -30,13 +30,13 @@ body {
   margin-bottom: 20px;
 }
 
-.main__text {
+.text__title {
   font-size: 17px;
   font-weight: 700;
   margin-bottom: 15px;
 }
 
-.second__text {
+.text__description {
   font-size: 12px;
   color: darkgray;
 }
